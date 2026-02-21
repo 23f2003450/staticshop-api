@@ -25,25 +25,10 @@
     { "id": "prod-c72bc21f-019", "name": "Standard Item 19", "category": "books", "price": 441.64, "stock": 142, "rating": 1.5 }
   ],
   "aggregations": {
-    "books": {
-      "count": 5,
-      "inventoryValue": 114201.2
-    },
-    "home": {
-      "count": 5,
-      "inventoryValue": 62147.46
-    },
-    "sports": {
-      "count": 4,
-      "inventoryValue": 76373.18
-    },
-    "electronics": {
-      "count": 3,
-      "inventoryValue": 46503.21
-    },
-    "clothing": {
-      "count": 2,
-      "inventoryValue": 19659.48
-    }
+    "books": { "count": 5, "inventoryValue": 114201.2 },
+    "home": { "count": 5, "inventoryValue": 62147.46 },
+    "sports": { "count": 4, "inventoryValue": 76316.1 },
+    "electronics": { "count": 3, "inventoryValue": 46503.21 },
+    "clothing": { "count": 2, "inventoryValue": 19659.48 }
   }
 }
